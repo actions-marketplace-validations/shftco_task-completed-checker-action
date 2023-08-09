@@ -1,6 +1,6 @@
-name: 'Task Completed Checker'
+name: 'SHFT Task Completed Checker'
 description: 'An action that checks if all tasks are completed in the pull requests.'
-author: 'kentaro-m'
+author: 'shftco'
 runs:
   using: 'node16'
   main: 'dist/index.js'
